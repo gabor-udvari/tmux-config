@@ -1,0 +1,3 @@
+[submodule "plugins/tundle"]
+	path = plugins/tundle
+	url = https://github.com/chilicuil/tundle.git
