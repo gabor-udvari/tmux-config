@@ -1,3 +1,12 @@
 [submodule "plugins/tundle"]
 	path = plugins/tundle
 	url = https://github.com/chilicuil/tundle.git
+[submodule "plugins/tmux-scroll-copy-mode"]
+	path = plugins/tmux-scroll-copy-mode
+	url = https://github.com/NHDaly/tmux-scroll-copy-mode.git
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible.git
+[submodule "plugins/tmux-resurrect"]
+	path = plugins/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect.git
